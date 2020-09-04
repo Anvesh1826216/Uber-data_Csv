@@ -1,5 +1,5 @@
 
-# Welcome to my kernel
+# Welcome to my repository
 
 # Uber Supply Demand Gap / Exploratory Data Analysis
 BUSINESS OBJECTIVE
